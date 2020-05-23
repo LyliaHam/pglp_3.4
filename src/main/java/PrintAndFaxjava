@@ -1,5 +1,5 @@
 
-public class PrintAndFax{
+public class PrintAndFax implements Fax, Scan {
 	
 	public void fax() {}
 
