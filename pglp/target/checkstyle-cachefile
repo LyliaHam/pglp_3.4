@@ -1,0 +1,10 @@
+#Sun May 24 21:39:11 CEST 2020
+module-resource*?\:checkstyle-suppressions.xml=B9F5175F799374E5ACFC4DB9D90C91FFEEF4E0A9
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/OnlyPrint.java=1590255845000
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/PrintAndFax.java=1590256118000
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/Scan.java=1590255533000
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/Print.java=1590255583000
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/Fax.java=1590255446000
+configuration*?=355978C2C402D768E0571C0BCFC1E05F43C17369
+module-resource*?\:checkstyle-xpath-suppressions.xml=453DCAB6BEF53727A43969F52BDCF753ABA13E0F
+/home/user/Bureau/pglp_3.4/pglp/src/main/java/lylia/Copy.java=1590255398000
